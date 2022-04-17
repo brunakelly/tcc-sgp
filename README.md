@@ -1,7 +1,7 @@
 <h1 align="center">Sistema de Gerenciamento de Projetos</h1>
 Repositório de entregavéis do trabalho de conclusão de curso de pós-graduação em Engenharia de Software pela PUC Minas Virtual
 
- <h3 align="left">Índice</h3>
+## Índice
 <!--ts-->
    - [Protótipo Navegável do Sistema](#prototipo-navegavel)
       - [Link do protótipo Figma](#prototipo-figma)
