@@ -2,17 +2,7 @@
 Repositório de entregavéis do trabalho de conclusão de curso de pós-graduação em Engenharia de Software pela PUC Minas Virtual
 
 ## Índice
-<!--ts-->
-   - [Protótipo Navegável do Sistema](#prototipo-navegavel)
-      - [Link do protótipo Figma](#prototipo-figma)
-      - [Vídeo apresentação do protótipo](#prototipo-video)
-   - [Estimativa de Pontos de Função do Sistema](#estimativa-pf)
-   - [Diagramas UML do Sistema](#diagramas-uml)
-      - [Diagrama de Casos de Uso](#caso-de-usos-uml)
-      - [Diagrama de Classes de Domínio](#classes-de-dominio-uml)
-      - [Diagrama de Componentes](#componentes-uml)
-      - [Diagrama de Implantação](#implantacao-uml)
-<!--te-->
+
 
 <div align="center" id="prototipo-navegavel">
    <h2 align="left">Protótipo Navegável do Sistema</h3>
