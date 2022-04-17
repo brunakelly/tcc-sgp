@@ -15,7 +15,9 @@ Repositório de entregavéis do trabalho de conclusão de curso de pós-graduaç
       - [Diagrama de Implantação](#implantacao-uml)
 <!--te-->
 
+<div align="center" id="prototipo-navegavel">
 ## Protótipo Navegável do Sistema
+</div>
 **Link do protótipo Figma** - Link
 **Vídeo apresentação do protótipo** - Link
 
@@ -27,3 +29,6 @@ Repositório de entregavéis do trabalho de conclusão de curso de pós-graduaç
 **Diagrama de Classes de Domínio** - Link
 **Diagrama de Componentes** - Link
 **Diagrama de Implantação** - Link
+<div align="center" id="implantacao-uml">
+## Protótipo Navegável do Sistema
+</div>
