@@ -5,27 +5,12 @@ Repositório de entregavéis do trabalho de conclusão de curso de pós-graduaç
 - Design do protótipo no Figma: [Link](https://www.figma.com/file/aTq5ufQWaEH33ZucETqkxQ/Sistema-de-Gest%C3%A3o-de-Projetos---TCC?node-id=0%3A1 "Link")
 - Vídeo apresentação do protótipo: Link
 
-
-
-
-
-
-
-
-
-Protótipo Navegável do Sistema
-=================
-**Link do protótipo Figma** - Link
-**Vídeo apresentação do protótipo** - Link
-
-## Estimativa de Pontos de Função do Sistema
-**Planilha de estimativa de pontos de função** - Link
+## Estimativa de Pontos de Função
+- Planilha de estimativa de pontos de função: [Link](https://www.figma.com/file/aTq5ufQWaEH33ZucETqkxQ/Sistema-de-Gest%C3%A3o-de-Projetos---TCC?node-id=0%3A1 "Link")
+- Imagem da planilha: 
 
 ## Diagramas UML do Sistema
-**Diagrama de Casos de Uso** - Link
-**Diagrama de Classes de Domínio** - Link
-**Diagrama de Componentes** - Link
-**Diagrama de Implantação** - Link
-<div align="center" id="implantacao-uml">
-   <h3 align="left">Protótipo Navegável do Sistema</h3>
-</div>
+- Diagrama de Casos de Uso
+- Diagrama de Classes de Domínio
+- Diagrama de Componentes
+- Diagrama de Implantação
