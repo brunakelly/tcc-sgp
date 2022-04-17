@@ -29,5 +29,5 @@ Protótipo Navegável do Sistema
 **Diagrama de Componentes** - Link
 **Diagrama de Implantação** - Link
 <div align="center" id="implantacao-uml">
-   <h1 align="left">Protótipo Navegável do Sistema</h1>
+   <h3 align="left">Protótipo Navegável do Sistema</h3>
 </div>
