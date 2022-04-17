@@ -1,2 +1,2 @@
-# tcc-sgp
-Sistema de Gerenciamento de Projetos - Repositório de entregavéis do TCC da Pós Graduação do Eng de Software - PUC Virtual. 
+<h1 align="center">Sistema de Gerenciamento de Projetos</h1>
+Repositório de entregavéis do trabalho de conclusão de curso d pós-graduação em Engenharia de Software pela PUC Minas Virtual
