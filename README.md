@@ -16,9 +16,9 @@ Repositório de entregavéis do trabalho de conclusão de curso de pós-graduaç
 
 <div align="center" id="prototipo-navegavel">
    <h2 align="left">Protótipo Navegável do Sistema</h3>
+</div>
    **Design do protótipo no Figma** - [Link](https://www.figma.com/file/aTq5ufQWaEH33ZucETqkxQ/Sistema-de-Gest%C3%A3o-de-Projetos---TCC?node-id=0%3A1 "Link")
    **Vídeo apresentação do protótipo** - Link
-</div>
 
 
 
