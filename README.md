@@ -1,8 +1,7 @@
 <h1 align="center">Sistema de Gerenciamento de Projetos</h1>
 Repositório de entregavéis do trabalho de conclusão de curso de pós-graduação em Engenharia de Software pela PUC Minas Virtual
 
-## Índice
-
+ <h3 align="left">Índice</h3>
 <!--ts-->
    - [Protótipo Navegável do Sistema](#prototipo-navegavel)
       - [Link do protótipo Figma](#prototipo-figma)
@@ -14,6 +13,18 @@ Repositório de entregavéis do trabalho de conclusão de curso de pós-graduaç
       - [Diagrama de Componentes](#componentes-uml)
       - [Diagrama de Implantação](#implantacao-uml)
 <!--te-->
+
+<div align="center" id="implantacao-uml">
+   <h3 align="left">Protótipo Navegável do Sistema</h3>
+</div>
+
+
+
+
+
+
+
+
 
 Protótipo Navegável do Sistema
 =================
